@@ -1,0 +1,12 @@
+# ignore all virtual environment files
+.idea/
+__pycache__/
+*.sqlite3
+.env
+venv
+*migrations
+*.log
+job_star/media/
+job_star/static/
+testing.py
+testing.py
